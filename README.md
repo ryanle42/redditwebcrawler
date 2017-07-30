@@ -3,3 +3,5 @@ Grabs data from accounts on a subreddit and adds it to a psql database
 - grabs data from 500+ users on a single thread
 - tracks karma on relevant posts
 - grabs age of account
+
+python getprofile.py
